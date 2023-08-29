@@ -26,7 +26,7 @@
     </style>
 </head>
 <body>
-    <iframe src="https://docs.google.com/viewer?url=[https://github.com/YourUsername/YourRepo/raw/main/path/to/Resume_Aadhar_Shah.pdf](https://github.com/aadharshah/Resume/blob/main/Resume_Aadhar_Shah.pdf)https://github.com/aadharshah/Resume/blob/main/Resume_Aadhar_Shah.pdf&embedded=true"></iframe>
+    <iframe src="https://docs.google.com/viewer?url=https://github.com/aadharshah/Resume/blob/main/Resume_Aadhar_Shah.pdf&embedded=true"></iframe>
 
 </body>
 </html>
