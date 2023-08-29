@@ -26,6 +26,6 @@
     </style>
 </head>
 <body>
-    <iframe src="Resume_Aadhar_Shah.pdf"></iframe>
+    <iframe src="https://docs.google.com/viewer?url="Resume_Aadhar_Shah.pdf"&embedded=true"></iframe>
 </body>
 </html>
