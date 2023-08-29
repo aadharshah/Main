@@ -1,2 +1,2 @@
 # Resume
-<a href="/pdfs/Resume_Aadhar_Shah.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="aadharshah.github.io/folder/Resume_Aadhar_Shah.pdf" target="_blank">PDF.</a>
