@@ -8,7 +8,7 @@
     <title>Embed PDF from GitHub</title>
 </head>
 <body>
-    <iframe src="https://aadharshah.github.io/repository/Resume_Aadhar_Shah.pdf" width="100%" height="500px">
+    <iframe src="Resume_Aadhar_Shah.pdf" width="100%" height="500px">
     </iframe>
 </body>
 </html>
