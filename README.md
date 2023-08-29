@@ -1,5 +1,4 @@
-# Resume
-<!DOCTYPE html>
+# Aadhar Shah - Cyber Security Stretegist
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +7,7 @@
     <title>Embed PDF from GitHub</title>
 </head>
 <body>
-    <iframe src="Resume_Aadhar_Shah.pdf" width="100%" height="500px">
+    <iframe src="Resume_Aadhar_Shah.pdf" width="100%" height="1500px">
     </iframe>
 </body>
 </html>
